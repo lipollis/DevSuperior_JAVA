@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65e56ffd-5034-4f43-9674-67cd37a00b3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/reservation-bad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/model/entities/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/model/exceptions/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/reservation-good.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/src/model/entities/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-good/src/model/exceptions/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/reservation-veryBad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/src/model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_5polimorfismo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_5polimorfismo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_7classes-abstratas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_7classes-abstratas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_8metodos-abstratos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_8metodos-abstratos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2D9L0uP9KCISYWmZucCHH9akQuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65e56ffd-5034-4f43-9674-67cd37a00b3d" name="Changes" comment="" />
+      <created>1660106134371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660106134371</updated>
+      <workItem from="1660106136139" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
