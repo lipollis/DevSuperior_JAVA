@@ -40,7 +40,7 @@
 - [Git e Github](https://github.com/lipollis/DevSuperior_JAVA/tree/main/12_Git%20e%20Github)
 - [Enumeração e Composição](https://github.com/lipollis/DevSuperior_JAVA/tree/main/13_Enumera%C3%A7%C3%B5es%20e%20composi%C3%A7%C3%A3o)
 - [Herança e Polimorfismo](https://github.com/lipollis/DevSuperior_JAVA/tree/main/14_Heran%C3%A7a%20e%20polimorfismo)
-- [Tratamento de exceções]()
+- [Tratamento de exceções](https://github.com/lipollis/DevSuperior_JAVA/tree/main/15_Tratamento%20de%20exce%C3%A7%C3%B5es)
 - []()
 - []()
 - []()

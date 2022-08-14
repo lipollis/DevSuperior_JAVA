@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e56ffd-5034-4f43-9674-67cd37a00b3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/reservation-bad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/model/entities/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-bad/src/model/exceptions/DomainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/reservation-good.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/src/model/entities/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-good/src/model/exceptions/DomainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/reservation-veryBad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reservation-veryBad/src/model/entities/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_5polimorfismo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_5polimorfismo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_7classes-abstratas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_7classes-abstratas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_8metodos-abstratos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_8metodos-abstratos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,17 +13,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2D9L0uP9KCISYWmZucCHH9akQuv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,8 +62,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660106134371</updated>
-      <workItem from="1660106136139" duration="1000" />
+      <workItem from="1660106136139" duration="756000" />
+      <workItem from="1660134965936" duration="63000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
