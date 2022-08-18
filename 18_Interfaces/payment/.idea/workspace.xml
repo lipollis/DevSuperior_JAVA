@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe8d12f-6943-47b6-b986-7db7e922cccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../amount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/amount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/src/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/src/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amount/src/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/devices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/ConcreteScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devices/src/devices/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/locadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/model/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/src/model/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17_Trabalhando com arquivos/FileReader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17_Trabalhando com arquivos/FileReader/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DTKzuwhAfd8uqglAJz3h8ipoW9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe8d12f-6943-47b6-b986-7db7e922cccd" name="Changes" comment="" />
+      <created>1660717899968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660717899968</updated>
+      <workItem from="1660717901562" duration="3366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

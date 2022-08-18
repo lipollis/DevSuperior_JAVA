@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3e578d-24d5-4daf-9eb2-7c67b55c3961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileReader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/Program05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/Program06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/ProgramFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/ProgramFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/ProgramFileWhite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/TryResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_Herança e polimorfismo/course_9polimorfismo-abstrata/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../16_Chess/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_Chess/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="eb3e578d-24d5-4daf-9eb2-7c67b55c3961" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660715274767</updated>
-      <workItem from="1660715279986" duration="1643000" />
+      <workItem from="1660715279986" duration="2134000" />
     </task>
     <servers />
   </component>
