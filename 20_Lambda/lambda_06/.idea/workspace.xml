@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="effcd9e2-d80d-4908-a183-eecf67b0a5b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lambda_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/lambda_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/src/application/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_01/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/lambda_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_02/src/util/ProductPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/lambda_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_03/src/util/PriceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/lambda_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_04/src/util/UpperCaseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/lambda_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/src/model/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_05/src/model/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/lambda_07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_07/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/pipeline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-funcional-expressoes-lambda.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXkk55Bh81LlxqRYfzZBCTl2iY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="effcd9e2-d80d-4908-a183-eecf67b0a5b9" name="Changes" comment="" />
+      <created>1660852957412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660852957412</updated>
+      <workItem from="1660852959907" duration="975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
