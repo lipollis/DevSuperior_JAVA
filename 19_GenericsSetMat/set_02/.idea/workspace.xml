@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdad3878-ce52-4334-9da9-24bc4677fd9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../generics_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/generics_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_01/src/services/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/generics_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_02/src/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/generics_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/src/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/src/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_03/src/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/map_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map_01/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/set_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_01/src/entities/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Product2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wildcard/wildcard.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXPImRTZRsSAhYQ6Q9zXTOzN6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdad3878-ce52-4334-9da9-24bc4677fd9c" name="Changes" comment="" />
+      <created>1660842378857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660842378857</updated>
+      <workItem from="1660842380720" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
