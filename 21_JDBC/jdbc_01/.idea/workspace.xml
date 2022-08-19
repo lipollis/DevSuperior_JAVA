@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d802a6e-6d37-40ad-bc6c-9df00048eec8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/demo_dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/application/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/db/DbIntegrityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/dao/SellerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_dao/src/model/entities/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/120359b5-b8e7-42ae-951f-b09a64de8974.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/120359b5-b8e7-42ae-951f-b09a64de8974/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/120359b5-b8e7-42ae-951f-b09a64de8974/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/120359b5-b8e7-42ae-951f-b09a64de8974/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/120359b5-b8e7-42ae-951f-b09a64de8974/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_01/application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_01/db/DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_01/db/DbException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/jdbc_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_02/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/jdbc_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_03/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/jdbc_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_04/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/jdbc_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_05/src/db/DbIntegrityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/jdbc_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_06/src/db/DbException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXvlxNSyq2j2VGvw7HIgPWLASA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/pollis/DEV/java-libs/jdbc-connectors/mysql-connector-java-8.0.28.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <module name="jdbc_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d802a6e-6d37-40ad-bc6c-9df00048eec8" name="Changes" comment="" />
+      <created>1660858402962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660858402962</updated>
+      <workItem from="1660858404789" duration="5848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
