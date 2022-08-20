@@ -1,0 +1,1 @@
+--module-path D:\pollis\DEV\java-libs\javafx-sdk-18.0.2\lib --add-modules=javafx.fxml,javafx.controls

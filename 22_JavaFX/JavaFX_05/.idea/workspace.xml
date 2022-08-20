@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f46774c4-6683-43ec-8574-ce87163c0990" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/JavaFX_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/out/production/JavaFX_01/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/out/production/JavaFX_01/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_01/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/JavaFX_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_02/src/gui/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/JavaFX_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/src/gui/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_03/src/gui/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/JavaFX_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/out/production/JavaFX_04/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/src/gui/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_04/src/gui/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFX_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaFX_05/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Constraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/JavaFX_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/out/production/JavaFX_06/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/src/gui/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/src/gui/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_06/src/model/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add VM module.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DbgYOtHi43BCBBYSJxEhhJq0B7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/pollis/DEV/DEV Superior/Udemy-JAVA/22_JavaFX/JavaFX_05/src",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pollis\DEV\DEV Superior\Udemy-JAVA\22_JavaFX\JavaFX_05\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="application" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="application.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="JavaFX_05" />
+      <option name="VM_PARAMETERS" value="--module-path D:\pollis\DEV\java-libs\javafx-sdk-18.0.2\lib --add-modules=javafx.fxml,javafx.controls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46774c4-6683-43ec-8574-ce87163c0990" name="Changes" comment="" />
+      <created>1660973245436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660973245436</updated>
+      <workItem from="1660973247257" duration="1316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
