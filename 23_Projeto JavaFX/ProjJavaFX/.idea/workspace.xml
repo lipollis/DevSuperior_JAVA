@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e6ce0d8-5b74-4add-b23b-e9a3685b35c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjJavaFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/application.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/About.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/SellerForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/SellerFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/SellerList.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/SellerListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/listeners/DataChangeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Constraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/exceptions/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/SellerService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DfD72YvwZYolgv3mUMELrqdmL6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/pollis/DEV/java-libs/jdbc-connectors",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.application.Main">
+    <configuration name="application.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="ProjJavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path D:\pollis\DEV\java-libs\javafx-sdk-18.0.2\lib --add-modules=javafx.fxml,javafx.controls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="application.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.main" />
+      <module name="ProjJavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path D:\pollis\DEV\java-libs\javafx-sdk-18.0.2\lib --add-modules=javafx.fxml,javafx.controls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.application.main" />
+      <item itemvalue="Application.application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.application.Main" />
+        <item itemvalue="Application.application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e6ce0d8-5b74-4add-b23b-e9a3685b35c5" name="Changes" comment="" />
+      <created>1661081084523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661081084523</updated>
+      <workItem from="1661081091395" duration="626000" />
+      <workItem from="1661089701117" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
