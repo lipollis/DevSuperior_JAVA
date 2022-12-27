@@ -48,7 +48,7 @@
 - [Lambda](https://github.com/lipollis/DevSuperior_JAVA/tree/main/20_Lambda)
 - [JDBC](https://github.com/lipollis/DevSuperior_JAVA/tree/main/21_JDBC)
 - [JavaFX]()
-- []()
+- [JPA + Hibernate]()
 - []()
 - []()
 - []()
