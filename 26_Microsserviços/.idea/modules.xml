@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/26_Microsserviços.iml" filepath="$PROJECT_DIR$/.idea/26_Microsserviços.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-api-gateway-zuul/hr-api-gateway-zuul.iml" filepath="$PROJECT_DIR$/hr-api-gateway-zuul/hr-api-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-config-server/hr-config-server.iml" filepath="$PROJECT_DIR$/hr-config-server/hr-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-eureka-server/hr-eureka-server.iml" filepath="$PROJECT_DIR$/hr-eureka-server/hr-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-oauth/hr-oauth.iml" filepath="$PROJECT_DIR$/hr-oauth/hr-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-payroll/hr-payroll.iml" filepath="$PROJECT_DIR$/hr-payroll/hr-payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-user/hr-user.iml" filepath="$PROJECT_DIR$/hr-user/hr-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-worker/hr-worker.iml" filepath="$PROJECT_DIR$/hr-worker/hr-worker.iml" />
+    </modules>
+  </component>
+</project>
